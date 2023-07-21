@@ -1,9 +1,0 @@
-import java.io.*;
-import java.util.*;
-class Lastdigit
-{
-public int lastdigitof(int input1)
-{
-return(Math,abs(input%10));
-}
-}
